@@ -1,0 +1,7 @@
+# MCP configuration containing auth tokens
+**/mcp_config.json
+mcp_config.json
+
+# UJAM user guides & manuals
+UJAM-documents/
+*.pdf
